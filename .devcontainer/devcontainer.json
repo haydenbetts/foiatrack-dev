@@ -1,0 +1,10 @@
+{
+  "name": "FOIATrack Dev",
+  "features": { "ghcr.io/devcontainers/features/docker-in-docker:2": {} },
+  "forwardPorts": [3000, 4000, 8025],
+  "portsAttributes": {
+    "3000": { "label": "web" },
+    "4000": { "label": "api" },
+    "8025": { "label": "mailpit" }
+  }
+}
