@@ -1,0 +1,8 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/haydenbetts/foiatrack-api.git
+	branch = main
+[submodule "web"]
+	path = web
+	url = https://github.com/haydenbetts/foiatrack-web.git
+	branch = main
