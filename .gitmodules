@@ -1,8 +1,8 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:haydenbetts/foiatrack-api.git
-	branch = main
+	branch = master
 [submodule "web"]
 	path = web
 	url = git@github.com:haydenbetts/foiatrack-web.git
-	branch = main
+	branch = master
